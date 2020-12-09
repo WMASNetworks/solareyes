@@ -1,4 +1,5 @@
-requests
-configparser
-ipaddress
-functools
+configparser==3.5.0
+ipaddress==1.0.18
+requests-ntlm==1.1.0
+requests-oauthlib==1.3.0
+requests==2.22.0
